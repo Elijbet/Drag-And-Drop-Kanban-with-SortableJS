@@ -10,7 +10,7 @@
 - easier to manage at scale
   - can be dropped into any part of the application without needing to know the overall context
 
-##### Drag-And-Drop Kanban with SortableJS is a perfect candidate
+### Drag-And-Drop Kanban with SortableJS is a perfect candidate
 
 - In a large-scale environment, it is not uncommon for our application to use several different frameworks.
   - For our architecture to be highly composable, our micro frontends need to support multiple frameworks.
